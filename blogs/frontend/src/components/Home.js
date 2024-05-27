@@ -5,6 +5,7 @@ import Footer from '../components/Footer';
 
 const Home = () => {
   return (
+    // header div
     <div>
        <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-indicators">
